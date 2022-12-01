@@ -1,0 +1,9 @@
+#forecast {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+}
+
+#forecast-card {
+  width: 10rem;
+}
