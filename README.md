@@ -2,7 +2,7 @@
 
 ## Description
 
-This project helps users find weather information for their city, or chosen locations by using the search function. It will show current weather conditions, as well as the next five days of weather for their given search.
+This project helps users find weather information for their city, or chosen locations by using the search function. It will show weather conditions for the next five days of weather for their given search.
 
 ## Installation
 
@@ -15,7 +15,11 @@ This project helps users find weather information for their city, or chosen loca
 
 ## Usage
 
-Used as a tool for a user to search a location and gain the weather for that location. It will show current weather conditions, as well as the next five(5) days.
+Used as a tool for a user to search a location and gain the weather for that location. It will show weather for` the next five(5) days.
+
+## Contributors
+
+Darius Garcia assisted me after class on 11/30/2022 to write the logic for the Javascript file. This was a section I was struggling greatly on.
 
 ## License
 
